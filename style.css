@@ -116,7 +116,7 @@ button {
 .form-row p {
   padding-bottom:8%;
   width: max-content;/* controls the label width */
-  font-size: 9pt;
+  font-size: 8.5pt;
   justify-self: end;
   justify-content: end;
   align-self: center;
@@ -126,7 +126,7 @@ button {
 .form-row2 p {
   padding-bottom:8%;
   width: max-content;/* controls the label width */
-  font-size: 9pt;
+  font-size: 8.5pt;
   justify-self: end;
   justify-content: end;
   align-self: center;
@@ -136,21 +136,21 @@ button {
 
 .form-row input {
   justify-self: center;
-  height: 9pt;
+  height: 8.5pt;
   width: 80%;
   border: 1px solid #999;
   background-color: #ffffff;
 }
 .form-row2 input {
   justify-self: center;
-  height: 9pt;
+  height: 8.5pt;
   width: 80%;
   border: 1px solid #999;
   background-color: #ffffff;
 }
 .form-row2 input {
   justify-self: center;
-  height: 9pt;
+  height: 8.5pt;
   width: 80%;
   border: 1px solid #999;
   background-color: #ffffff;
@@ -227,7 +227,7 @@ button {
 }
 .Room-Reservation-Part2 p{
 justify-self: center;
-font-size: 9pt;
+font-size: 8.5pt;
 font-weight: bold;
 }
 
