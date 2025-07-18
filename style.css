@@ -269,10 +269,10 @@ td, th {
 }
 .Credit-card-part2{
   display: grid;
-  grid-template-columns: 9fr 3fr;
+  grid-template-columns: 8fr 4fr;
   font-size: 8pt;
   margin-left: 10%;
-  margin-right: 10%;
+  margin-right: 15%;
 }
 .Credit-card-no1{
   display: grid;
