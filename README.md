@@ -1,2 +1,2 @@
 # Meeting-Point-Participant
- [Live Demo]https://georgewassup.github.io/Reservation_room/html
+ [Live Demo]https://georgewassup.github.io/Meeting-Point-Participants/html
